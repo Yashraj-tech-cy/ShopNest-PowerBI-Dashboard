@@ -16,13 +16,8 @@ This project analyzes e-commerce sales data using Power BI to generate insights 
 - Monthly, Quarterly & Yearly Trends
 - State-wise Sales Analysis
 
-## 📸 Dashboard Preview
-(Add screenshot here)
-
 ## 📌 Insights
 - Credit card is the most used payment method
 - Certain categories contribute highest revenue
 - Delayed deliveries peak in specific months
 
-## 👨‍💻 Author
-Your Name
