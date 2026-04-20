@@ -1,0 +1,22 @@
+# ShopNest E-commerce Dashboard (Power BI)
+
+## 📊 Project Overview
+This project analyzes e-commerce sales data using Power BI to generate insights on revenue, customer behavior, delivery performance, and product ratings.
+
+## 🔧 Tools & Technologies
+- Power BI
+- DAX
+- Data Modeling
+- Power Query
+
+## 📈 Key Features
+- KPI Cards (Revenue, Orders, Delayed Orders, Rating)
+- Top & Bottom Rated Products
+- Payment Method Analysis
+- Monthly, Quarterly & Yearly Trends
+- State-wise Sales Analysis
+
+## 📌 Insights
+- Credit card is the most used payment method
+- Certain categories contribute highest revenue
+- Delayed deliveries peak in specific months
